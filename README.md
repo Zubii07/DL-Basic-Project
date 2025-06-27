@@ -43,12 +43,12 @@ This project demonstrates how to build, train, and evaluate a simple neural netw
 ### 🧾 Output Table
     Here’s a sample of the model’s prediction on test data:
 
-PassengerId  	Prediction (Survived)
-892         	0
-893	          1
-894	          0
-895	          0
-896	          1
-...	          ...
+     PassengerId  	Prediction (Survived)
+      892         	0
+      893	          1
+      894	          0
+      895	          0
+      896	          1
+      ...	          ...
 
 ## Happy Learning
